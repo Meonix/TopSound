@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="width_editText_login">280dp</dimen>
+    <dimen name="height_editText_login">50dp</dimen>
+    <dimen name="padding_15dp">15dp</dimen>
+    <dimen name="margin_15dp">15dp</dimen>
+    <dimen name="width_and_height_icon_login">120dp</dimen>
+    <dimen name="height_50dp">50dp</dimen>
+</resources>

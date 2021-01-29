@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="error_name_register">your name should not empty.</string>
+    <string name="password_must_be_at_least_7_char">your password must be at least 7 characters</string>
+</resources>

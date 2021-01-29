@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TopSound</string>
+    <string name="email_string">email</string>
+    <string name="password_string">password</string>
+    <string name="login_text">Login</string>
+    <string name="register_text">Register</string>
+    <string name="confirm_password">confirm password</string>
+    <string name="your_name_text">your name</string>
+    <string name="error_name_register">your name should not empty.</string>
+    <string name="error_email_register">email should not empty.</string>
+    <string name="error_password_register">password should not empty.</string>
+    <string name="confirm_password_register">confirm password should not empty.</string>
+    <string name="password_must_be_at_least_7_char">your password must be at least 7 characters</string>
+</resources>
